@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Computing, Aritficial Intelligence, Machine Learning, Android Development and Embedded Systems.
 - 🌱 I’m currently learning about Quantum Computing under the Qubit x Qubit program by IBM and The Coding School.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me: Gmail - bopardikarsoham@gmail.com
+- 📫 Reach me via Gmail - bopardikarsoham@gmail.com
 
 <!---
 bopardikarsoham/bopardikarsoham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
