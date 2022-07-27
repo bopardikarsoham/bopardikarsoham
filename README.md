@@ -10,7 +10,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/soham-bopardikar-580432175/)
 &nbsp;
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bopardikarsoham&show_icons=true&theme=cobalt)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bopardikarsoham&show_icons=true&theme=heatwave)
 
 <!---
 bopardikarsoham/bopardikarsoham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
