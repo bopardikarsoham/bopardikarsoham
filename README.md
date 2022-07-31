@@ -2,11 +2,11 @@
 - 👀 I’m interested in Quantum Computing, IoT, Machine Learning, Android Development and Embedded Systems.
 - 🌱 I’m currently working as a:-
 
-  :arrow_right: [Quantum Machine Learning Research Intern at NIT Raipur](https://qworld.net/qintern-2022/)
+  ###### :arrow_right: [Quantum Machine Learning Research Intern at NIT Raipur](https://qworld.net/qintern-2022/)
   
-  :arrow_right: NLP Intern at [Qkrishi](https://qkrishi.com/)
+  ###### :arrow_right: NLP Intern at [Qkrishi](https://qkrishi.com/)
   
-  :arrow_right: Qiskit Advocate at [IBM Quantum](https://qiskit.org/advocates/)
+  ###### :arrow_right: Qiskit Advocate at [IBM Quantum](https://qiskit.org/advocates/)
 - 💞️ An active open source contributor.
 - 📫 Reach me via Gmail - bopardikarsoham@gmail.com
 - ⚡ Thought - Do what you love!
