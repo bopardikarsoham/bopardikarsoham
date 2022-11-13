@@ -17,7 +17,7 @@
 &nbsp;
 
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bopardikarsoham&show_icons=true&theme=merko)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bopardikarsoham&show_icons=true&theme=blue)
 
 <!---
 bopardikarsoham/bopardikarsoham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
