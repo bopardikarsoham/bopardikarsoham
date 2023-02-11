@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bopardikarsoham
+- 👋 Hi, I’m Soham Bopardikar
 - 👀 I’m interested in Quantum Computing, IoT, Machine Learning, Android Development and Embedded Systems.
 - 🌱 I’m currently working as a:-
 
