@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham Bopardikar
-- 👀 I’m interested in Quantum algorithms and near-term applications, resource estimation and benchmarking, speech processing.
+- 👀 Research Interests: Quantum algorithms and near-term applications, resource estimation and benchmarking, speech processing.
 - 🌱 I’m currently working as a:-
 
   ###### :arrow_right: Quantum Research Intern at IBM Research India
