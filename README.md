@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham Bopardikar
-- 👀 I’m interested in Quantum Computing, IoT, Machine Learning, Android Development and Embedded Systems.
+- 👀 I’m interested in Quantum algorithms and near-term applications, resource estimation and benchmarking, speech processing.
 - 🌱 I’m currently working as a:-
 
   ###### :arrow_right: Quantum Research Intern at IBM Research India
@@ -7,7 +7,7 @@
   ###### :arrow_right: Qiskit Advocate at [IBM Quantum](https://qiskit.org/advocates/)
   
 - 💞️ An active open source contributor.
-- 📫 Reach me via Gmail - bopardikarsoham@gmail.com
+- 📫 Reach me via Mail - bopardikar.so@northeastern.edu
 - ⚡ Thought - Do what you love!
 
 #### Connect with me:
