@@ -2,7 +2,7 @@
 - 👀 Research Interests: Quantum Computing, High Performance Computing, Speech processing.
 - 🌱 I’m currently working as a:-
 
-  ###### :arrow_right: AI & Quantum Research Intern at St. Jude Children's Research Hospital
+  ###### :arrow_right: AI & Quantum Research Intern at [St. Jude Children's Research Hospital](https://www.stjude.org/)
   
   ###### :arrow_right: Qiskit Advocate at [IBM Quantum](https://qiskit.org/advocates/)
   
